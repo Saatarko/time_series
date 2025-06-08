@@ -193,3 +193,4 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 .virtual_documents
+image/
